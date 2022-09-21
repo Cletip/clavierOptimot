@@ -5,6 +5,30 @@
 - Fichier Commandes = Commandes.org
 - Doc présente
 
+
+Toutes les commandes avec un chemin relatif commence dans le dossier de ce github.
+
+* Sous Linux
+** Mettre le clavier
+
+#+begin_src sh
+  ./optimotIso.sh
+#+end_src
+
+En Ergo/Clavier orthogonale : 
+
+#+begin_src sh
+  ./optimotErgo.sh
+#+end_src
+
+** Remettre azerty
+#+begin_src sh
+  ./azerty.sh
+#+end_src
+
+* Sous Windows
+
 * Pourquoi ce repos
 
 Utiliser l'Optimot partout et facilement sans droit admin.
+
