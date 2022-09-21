@@ -5,17 +5,18 @@ Toutes les commandes avec un chemin relatif commence dans le dossier de ce githu
 ** Mettre le clavier
 
 #+begin_src sh
-  xkbcomp -w0 Linux/Optimot/Optimot_Iso/Optimot_Iso-ISO.xkb $DISPLAY
+  ./optimotIso.sh
 #+end_src
 
-En Iso/Clavier orthogonale : 
+En Ergo/Clavier orthogonale : 
+
 #+begin_src sh
-  xkbcomp -w0 Linux/Optimot/Optimot_Ergo/Optimot_Ergo-ERGO.xkb $DISPLAY
+  ./optimotErgo.sh
 #+end_src
 
 ** Remettre azerty
 #+begin_src sh
-  xkbcomp -w0 Linux/azerty.xkb $DISPLAY
+  ./azerty.sh
 #+end_src
 
 * Windows 
