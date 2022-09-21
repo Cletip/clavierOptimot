@@ -1,0 +1,10 @@
+#+title: Optimot
+
+* TL;DR
+
+- Fichier Commandes = Commandes.org
+- Doc présente
+
+* Pourquoi ce repos
+
+Utiliser l'Optimot partout et facilement sans droit admin.
